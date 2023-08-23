@@ -22,3 +22,4 @@
 <a href="https://instagram.com/develorde" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 <a href="https://www.linkedin.com/in/develorde" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 <a href="https://develorde.com" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> </a>
+<a href="https://develorde.com](https://api.whatsapp.com/send?phone=5521979090607&text=Ol%C3%A1,%20Daniel...." target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
